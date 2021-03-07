@@ -1,10 +1,12 @@
-## javascript console utils
+## VSCODEメモ
 
-### ショートカットキーで選択した変数のコンソールログを自動で作成する
-cmd + Shift + L
+### javascript console utils
 
-### 全てのコンソールログを自動で削除する
-cmd + Shift + d
+#### ショートカットキーで選択した変数のコンソールログを自動で作成する
+- cmd + Shift + L
 
-## change-case 
+#### 全てのコンソールログを自動で削除する
+- cmd + Shift + d
+
+### change-case 
 - 選択した変数に対して、命名規則を適用することができる
