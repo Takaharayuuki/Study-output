@@ -2,7 +2,7 @@
 
 ## 3月20日更新　ITパスポート　=>  基本情報　
 ### キタミ式　ITパスポート アウトプット
-- => it-passport.md
+- Study-output/it-passport.md
 
 ## 「プロになるためのWeb技術入門」
 - HTTP
